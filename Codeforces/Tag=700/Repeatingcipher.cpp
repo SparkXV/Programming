@@ -1,0 +1,22 @@
+/*
+ * Repeatingcipher.cpp
+ *
+ *  Created on: Apr 2, 2019
+ *      Author: Dell
+ */
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    string s;
+    cin >> s;
+    int index = 0;
+    int gap = 1;
+    while (index < n)
+        cout << s[index], index += gap, gap++;
+}
+
