@@ -6,7 +6,7 @@
  */
 
 
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 
@@ -36,7 +36,7 @@ int main()
 	}
 	cout<<str4;
     return 0;
-}*/
+}
 
 
 
