@@ -4,7 +4,7 @@
  *  Created on: Mar 22, 2019
  *      Author: Dell
  */
-/*
+
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -46,7 +46,7 @@ int main()
 	}
 	cout<<c;
 	return 0;
-}*/
+}
 
 
 
