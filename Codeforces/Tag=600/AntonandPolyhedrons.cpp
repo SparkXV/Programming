@@ -5,7 +5,7 @@
  *      Author: Dell
  */
 
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 
@@ -42,6 +42,6 @@ int main()
 	}
 	cout<<sum<<"\n";
 	return 0;
-}*/
+}
 
 
