@@ -4,7 +4,7 @@
  *  Created on: Apr 9, 2019
  *      Author: Dell
  */
-
+/*
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -34,4 +34,4 @@ int main()
 
     return 0;
 }
-
+*/

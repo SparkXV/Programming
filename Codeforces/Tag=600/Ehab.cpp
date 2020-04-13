@@ -4,7 +4,7 @@
  *  Created on: Mar 31, 2019
  *      Author: Dell
  */
-
+/*
 #include<iostream>
 using namespace std;
 
@@ -29,7 +29,7 @@ int getnumber(int turn,int n)
 	 }
 	return 0;
 }
-
+/*
 int main()
 {
 	int n;
@@ -64,5 +64,5 @@ int main()
 		}
 	}
 }
-
+*/
 

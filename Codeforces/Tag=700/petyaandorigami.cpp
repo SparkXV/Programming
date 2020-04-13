@@ -4,7 +4,7 @@
  *  Created on: Apr 9, 2019
  *      Author: Dell
  */
-
+/*
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -25,4 +25,4 @@ int main()
 	cout<<res<<"\n";
 	return 0;
 }
-
+*/

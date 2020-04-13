@@ -4,7 +4,7 @@
  *  Created on: Apr 2, 2019
  *      Author: Dell
  */
-
+/*
 #include<iostream>
 using namespace std;
 
@@ -27,7 +27,7 @@ int main()
 	}
 	return 0;
 }
-
+*/
 
 
 
