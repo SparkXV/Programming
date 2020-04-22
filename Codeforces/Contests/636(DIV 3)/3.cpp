@@ -55,6 +55,7 @@ int main() {
                         {
                             if(a[j]>prev)
                             {
+                                prev=a[j];
                                 index=j;
                             }
                         }
