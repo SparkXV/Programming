@@ -2,8 +2,6 @@
 #define ll long long
 using namespace std;
  
-<<<<<<< HEAD
-=======
  int main()
  {
 	  /*  Address of
@@ -19,7 +17,6 @@ using namespace std;
  }
 
 /*
->>>>>>> 1d88fc4fffdfd636478c8caa1d8e9c184d323b55
 int main()
 {
 	ll n,k,i;
@@ -33,9 +30,5 @@ int main()
 	}
 	cout<<n;
 	return 0;
-<<<<<<< HEAD
-}
-=======
 }
 */
->>>>>>> 1d88fc4fffdfd636478c8caa1d8e9c184d323b55
