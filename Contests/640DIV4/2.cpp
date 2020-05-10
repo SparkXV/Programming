@@ -85,6 +85,44 @@ int main() {
                 }
                 int c=n-(k-1)*q;
                 v.pb(c);
+                int even=0;
+                for(int i=0;i<v.size();i++)
+                {
+                    if(v[i]%2!=0)
+                    {
+                        even=1;
+                        break;
+                    }
+                }
+                if(even==0)
+                {
+                    cout<<"YES"<<"\n";
+                    for(int i=0;i<v.size();i++)
+                    {
+                        cout<<v[i]<<" ";
+                    }
+                    cout<<"\n";
+                    continue;
+                }
+                int odd=0;
+                for(int i=0;i<v.size();i++)
+                {
+                    if(v[i]%2==0)
+                    {
+                        odd=1;
+                        break;
+                    }
+                }
+                if(odd==0)
+                {
+                    cout<<"YES"<<"\n";
+                    for(int i=0;i<v.size();i++)
+                    {
+                        cout<<v[i]<<" ";
+                    }
+                    cout<<"\n";
+                    continue;
+                }
                 if(v.size()%2==0)
                 {
                     cout<<"NO"<<"\n";
